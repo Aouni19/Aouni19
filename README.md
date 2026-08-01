@@ -1,10 +1,5 @@
 <div align="center">
-
-<!-- Animated typing header -->
-<a href="https://github.com/Aouni19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2D6A4F&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aoun+Raza;Android+Developer+%7C+Jetpack+Compose;Data+Science+%26+ML+Practitioner;Building+AI-Powered+Dashboards+%F0%9F%93%8A" alt="Typing SVG" />
-</a>
-
+  <img src="cover.gif" alt="Cover GIF" />
 </div>
 
 ### 🧑‍💻 About Me
@@ -57,24 +52,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Aouni19/Aouni19/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
-### ⭕ Play Tic-Tac-Toe Against the Repo!
-
-Open a new issue titled like `Move: 5` (numbers 1–9 for board positions) to make your move. A bot will play back and update the board below.
-
-<div align="center">
-
-|     |     |     |
-| :-: | :-: | :-: |
-|  [1](https://github.com/Aouni19/Aouni19/issues/new?title=Move:+1&body=Making+move+1) |  [2](https://github.com/Aouni19/Aouni19/issues/new?title=Move:+2&body=Making+move+2) |  [3](https://github.com/Aouni19/Aouni19/issues/new?title=Move:+3&body=Making+move+3) |
-|  [4](https://github.com/Aouni19/Aouni19/issues/new?title=Move:+4&body=Making+move+4) |  [5](https://github.com/Aouni19/Aouni19/issues/new?title=Move:+5&body=Making+move+5) |  [6](https://github.com/Aouni19/Aouni19/issues/new?title=Move:+6&body=Making+move+6) |
-|  [7](https://github.com/Aouni19/Aouni19/issues/new?title=Move:+7&body=Making+move+7) |  [8](https://github.com/Aouni19/Aouni19/issues/new?title=Move:+8&body=Making+move+8) |  [9](https://github.com/Aouni19/Aouni19/issues/new?title=Move:+9&body=Making+move+9) |
-
-*(Board resets automatically after a win, loss, or draw — try to beat the bot!)*
-
 </div>
 
 ---

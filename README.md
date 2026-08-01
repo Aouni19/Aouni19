@@ -30,8 +30,8 @@
       <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
     </td>
     <td width="50%">
-      <h4>🎫 <a href="https://github.com/Aouni19/Tickt">Tickt</a></h4>
-      A dial-based timer with a clean, minimal interaction model.
+      <h4>🎨 <a href="https://github.com/Aouni19/liquid-ui">liquid-ui</a></h4>
+      A polished liquid-style UI project focused on smooth visuals and modern Android interactions.
       <br><br>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
     </td>
